@@ -19,3 +19,7 @@ This repository contains one of the tasks that I completed while working as an i
 
 > Demo:
 <a href="">Prediction using Decision Tree Algorithm</a>
+
+- Cloning the Repository: 
+
+        git clone https://github.com/ankitasankars/Prediction-using-Decision-Trees.git
