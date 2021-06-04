@@ -4,7 +4,7 @@
 
 This repository contains one of the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
-- **Internship Duration** - 1 Month ( June-2021 )
+- **Internship Duration** - 1 Month (June-2021)
 - **Internship Type** - Work from Home
 <br><br>
 <img height="30" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-purple.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -15,7 +15,7 @@ This repository contains one of the tasks that I completed while working as an i
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 > Solution:
-<a href="">Prediction using Decision Tree Algorithm </a>
+<a href="https://github.com/ankitasankars/Prediction-using-Decision-Trees/blob/main/Task_6__Decision_Tree.ipynb">Prediction using Decision Tree Algorithm </a>
 
 > Demo:
 <a href="">Prediction using Decision Tree Algorithm</a>
